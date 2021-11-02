@@ -123,3 +123,14 @@ rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 stroeer.com, 17379, RESELLER
 google.com, pub-5689990342077931, DIRECT, f08c47fec0942fa0
+facebook.com, 344432760222849, DIRECT, c3e20eee3f780d68
+mopub.com, 7af0c8dca2fb433597f352f9d8aa210f, DIRECT, 74b46c0ea83967ca
+rubiconproject.com, 21648, RESELLER, 0bfd66d529a55807
+applovin.com, 7e7ed749b532e0e9b975730b0e047bea, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
